@@ -135,6 +135,10 @@ namespace TechJobsConsole
                 }
                 
          }
+         else
+         {
+                Console.WriteLine("No results.");                
+         }
 
 
         }               
